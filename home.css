@@ -1,0 +1,41 @@
+.background-image {
+  background-image: url(img/pills.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height:100vh;
+  padding: 0;
+  margin: 0;
+}
+.background-image1 {
+  background-image: url(img/faculty.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height:50px
+  padding: 0;
+  margin: 0;
+}
+.background-image2 {
+  background-image: url(img/drive.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height:50px
+  padding: 0;
+  margin: 0;
+}
+.background-image3 {
+  background-image: url(img/promo.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height:50px
+  padding: 0;
+  margin: 0;
+}
+#hov-h3:hover{background-color: azure; opacity: 85%;}
+h3:hover {background-color: azure; opacity: 85%;}
